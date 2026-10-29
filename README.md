@@ -56,7 +56,7 @@ Do mesmo jeito que a calculadora básica foi executada:
 
 2. Execute o script diretamente pelo terminal:
 ```bash
-python calculadora.py
+python calculadora_porcentagem.py
 ```
 
 
