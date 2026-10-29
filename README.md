@@ -5,7 +5,6 @@ Esse é o repositório central da Imersão em Engenharia de Software com IA da A
 
 Aqui estão reunindos aqui dois dos desafios práticos desenvolvidos durante a Imersão. Cada desafio explora uma etapa da formação de um desenvolvedor na era da inteligência artificial: desde lógica fundamental e refatoração com IA até a criação de aplicações web completas com testes automatizados.
 
----
 
 
 ## Desafio 1: Calculadora básica em Python 
@@ -23,7 +22,6 @@ O primeiro desafio deste repositório consiste em uma calculadora com as quatro 
 
 * Tratamento de divisão por zero: Tratamento de erros e exceções para garantir a estabilidade do script.
 
----
 
 ## Como Executar 
 
@@ -34,7 +32,6 @@ O primeiro desafio deste repositório consiste em uma calculadora com as quatro 
 python calculadora.py
 ```
 
----
 
 
 ## Desafio 2: Evolução da calculadora com o Google Antigravity
@@ -63,10 +60,8 @@ python calculadora.py
 ```
 
 
----
 
 
-
-## Autor
+# Autor
 
 Beca Guimas :) 
