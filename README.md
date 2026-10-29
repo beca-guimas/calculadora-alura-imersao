@@ -23,7 +23,7 @@ O primeiro desafio deste repositório consiste em uma calculadora com as quatro 
 * Tratamento de divisão por zero: Tratamento de erros e exceções para garantir a estabilidade do script.
 
 
-## Como Executar 
+### Como Executar 
 
 1. Certifique-se de ter o Python instalado em sua máquina
 
@@ -48,7 +48,7 @@ III Testar: Validar cenários de borda e garantir ausência de regressões nas f
 Nesse desafio, dei uma turbinada na calculadora, acrescentando a função de porcentagem. Foram feitas pequenas alterações no código para adicionar essa nova função.
 
 
-## Como Executar 
+### Como Executar 
 
 Do mesmo jeito que a calculadora básica foi executada:
 
@@ -62,6 +62,6 @@ python calculadora.py
 
 
 
-# Autor
+### Autor
 
 Beca Guimas :) 
