@@ -18,7 +18,7 @@ O primeiro desafio deste repositório consiste em uma calculadora com as quatro 
 
 * Funções modulares (def): Organização e encapsulamento do código em blocos reutilizáveis.
 
-* **Controle de fluxo (if/elif/else): Tomada de decisões com base nas entradas fornecidas.
+* Controle de fluxo (if/elif/else): Tomada de decisões com base nas entradas fornecidas.
 
 * Tratamento de divisão por zero: Tratamento de erros e exceções para garantir a estabilidade do script.
 
