@@ -65,3 +65,5 @@ python calculadora_porcentagem.py
 ### Autor
 
 Beca Guimas :) 
+
+Me encontre no [LinkedIn](https://www.linkedin.com/in/becaguimas).  
